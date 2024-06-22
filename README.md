@@ -25,7 +25,7 @@ This repository contains my solutions and approaches to various Kaggle competiti
 
 - **Competition URL**: [Link to the competition]([https://www.kaggle.com/competitions/competition-name](https://www.kaggle.com/datasets/rabieelkharoua/predict-pet-adoption-status-dataset))
 - **Description**: A brief description of the competition and its objective.
-- **Notebook**: [Competition 1 Notebook]([https://github.com/Nithish-github/Kaggle-MachineLearning/blob/main/Predict_Pet_Adoption_Model.ipynb])
+- **Notebook**: [Competition 1 Notebook](https://github.com/Nithish-github/Kaggle-MachineLearning/blob/main/Predict_Pet_Adoption_Model.ipynb)
 
 ## Technologies Used
 
